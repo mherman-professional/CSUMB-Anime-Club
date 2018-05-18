@@ -51,10 +51,6 @@ h1.head {
 	font-weight: bold;
 }
 
-#nextCollection, #prevCollection {
-
-}
-
 #prevCollection {
 	float: left;
 	padding-left: 15px;
@@ -86,18 +82,6 @@ h1.head {
 
 a:link {
 	text-decoration: none;
-}
-
-a:visited {
-
-}
-
-a:active {
-
-}
-
-a:hover {
-
 }
 
 .nav:link {
